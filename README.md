@@ -1,6 +1,16 @@
 
-npm i jest-puppeteer
+# Visual regression with Jest and Puppeteer
 
-npm i --save-dev jest-image-snapshot
+## :gear:️ Setup 
+````
+$ npm install
+````
 
-Run tests 'npm run'
+## :running_woman: Run tests 
+````
+$ npm run test
+````
+
+## :bricks: Technologies
+Project is created with: 
+* jest-puppeteer
